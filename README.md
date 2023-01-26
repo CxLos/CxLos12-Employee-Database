@@ -21,7 +21,7 @@ Please watch Video Below
 
 ## Usage
 
-[Please watch video](https://drive.google.com/file/d/1FSNLIWReYh-pchztRlnFXi89JxNimuiD/view)
+[Walkthrough of the CxLos12 Employee Database](https://drive.google.com/file/d/1FSNLIWReYh-pchztRlnFXi89JxNimuiD/view)
 
 ## Badges
 
