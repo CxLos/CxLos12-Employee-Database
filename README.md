@@ -21,6 +21,8 @@ Please watch Video Below
 
 ## Usage
 
+[CxLos12-Employee-Database Repo](https://github.com/CxLos/CxLos12-Employee-Database)
+
 [Walkthrough of the CxLos12 Employee Database](https://drive.google.com/file/d/1FSNLIWReYh-pchztRlnFXi89JxNimuiD/view)
 
 ## Badges
